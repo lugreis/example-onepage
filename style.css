@@ -1,0 +1,25 @@
+img{
+    height: 535px;
+}
+
+.header-title{
+    margin-top: 160px;
+}
+
+.nav-style{
+    background-color: rgba(65,74, 76, 0.9);
+    padding: 40px;
+}
+
+.logo{
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+
+.sub-title{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 80px;
+    font-size: 20px;
+}
