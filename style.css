@@ -1,5 +1,5 @@
 .initial-img{
-    height: 535px;
+    height: 530px;
 }
 
 .header-title{
@@ -49,8 +49,14 @@
     margin-bottom: 25px;
 }
 
+.form-title{
+padding: 15px;
+}
+
 footer{
-    padding: 30px;
+    padding: 24px;
     text-align: center;
 }
+
+
 
