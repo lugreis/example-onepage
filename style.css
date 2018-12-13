@@ -1,4 +1,4 @@
-img{
+.initial-img{
     height: 535px;
 }
 
@@ -19,8 +19,8 @@ img{
 
 .sub-title{
     text-align: center;
-    margin-top: 60px;
-    margin-bottom: 80px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     font-size: 20px;
 }
 
@@ -29,12 +29,28 @@ img{
     height: 130px;
 }
 
-h2{
+.header-products{
     text-align: center;
     margin-top: 20px;
     margin-bottom: 15px;
 }
 
-p{
+.p-poducts{
     text-align: center;
 }
+
+.gallery{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.title-gallery{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+footer{
+    padding: 30px;
+    text-align: center;
+}
+
